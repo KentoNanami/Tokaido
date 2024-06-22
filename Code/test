@@ -1,0 +1,2 @@
+a = ["aze", "b"]
+if "z" not in a: print("yes")
