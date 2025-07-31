@@ -1,16 +1,17 @@
+# TOKAIDO
 ⚠️Unzip files named "Graphique.part1.rar" and "Graphique.part1.rar" and drop them in a new file named "Graphique"⚠️
 
-Requirements :<br/>
+## Requirements :<br/>
 -FreeSimpleGUI<br/>
 -Pygame<br/>
 
-Screenshots:<br/>
+## Screenshots:<br/>
 <br/>
-Home : 
+ 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/05c57e66-50fd-4722-b241-dcf8f5238495" />
-Statistics:
+
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d1f19780-b833-4550-9380-fbb99677ebce" />
-InGame Screenshots:
+
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f455f33c-645d-47e1-8e62-85fff55d88fc" />
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/043c3db9-d736-477c-8015-b934fa2445dd" />
