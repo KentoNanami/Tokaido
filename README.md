@@ -1,11 +1,11 @@
 ⚠️Unzip files named "Graphique.part1.rar" and "Graphique.part1.rar" and drop them in a new file named "Graphique"⚠️
 
+Requirements :<br/>
+-FreeSimpleGUI<br/>
+-Pygame<br/>
 
-Requirements : 
--FreeSimpleGUI
--Pygame
--.....
-Screenshots:
+Screenshots:<br/>
+<br/>
 Home : 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/05c57e66-50fd-4722-b241-dcf8f5238495" />
 Statistics:
