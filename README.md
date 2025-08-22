@@ -1,5 +1,5 @@
 # TOKAIDO
-⚠️Unzip files named "Graphique.part1.rar" and "Graphique.part1.rar" and drop them in a new file named "Graphique"⚠️
+⚠️Unzip files named "Graphique.part1.rar" and "Graphique.part2.rar" and drop them in a new file named "Graphique"⚠️
 
 ## Requirements :<br/>
 -FreeSimpleGUI<br/>
